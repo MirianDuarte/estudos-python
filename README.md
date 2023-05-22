@@ -1,4 +1,5 @@
-#  ESTUDOS - PYTHON
+#  ESTUDOS - PYTHON - BÁSICO
 
-Com base no ebook do Code em um minuto.
+Com base no ebook 1 do Code em um minuto.
+
 
